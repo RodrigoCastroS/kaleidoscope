@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Mazius Review";
-    src: url("/assets/mazius-review-regular.woff2");
+    src: url("./assets/mazius-review-regular.woff2");
 }
 @font-face {
     font-family: "Mazius Review";
     font-style: italic;
-    src: url("/assets/mazius-review-extra-italic.woff2");
+    src: url("./assets/mazius-review-extra-italic.woff2");
 }
 
 
