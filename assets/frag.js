@@ -1,4 +1,4 @@
-const frag = `
+export const frag = `
 
 #ifdef GL_ES
 precision highp float;
